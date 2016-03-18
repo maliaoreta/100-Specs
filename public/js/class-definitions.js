@@ -42,6 +42,7 @@ var sahara_animal = 'The Addax';
  * each galilean moon of Jupiter
  *
  */
+ var galilean_moons = ['io', 'europa', 'ganymede', 'callisto'];
 
 
 /* Step 6 φ
